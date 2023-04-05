@@ -10,5 +10,6 @@ body{
 .parrafo{
   width: 80%;
   height:80%;
+  margin: 0px auto;
   background-color: white;  
 }
